@@ -5,3 +5,5 @@ knitr::include_graphics("https://raw.githubusercontent.com/Fminaurol/Mineria/mai
 
 
 ![alt text](https://drive.google.com/file/d/1fWF-7ouJrK_zJ715PVBplLLze3px70Dy/view?usp=sharing)
+
+![image](https://drive.google.com/uc?export=view&id=1fWF-7ouJrK_zJ715PVBplLLze3px70Dy)
